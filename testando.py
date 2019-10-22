@@ -1,2 +1,0 @@
-geru
-testando geru
